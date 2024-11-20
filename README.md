@@ -1,6 +1,6 @@
 # Oiso Tech Blog
 
-오픈소스 이화 플리마켓 프로젝트 [OISO 의 기술 블로그](https://sarang-han.github.io/) 입니다.
+오픈소스 이화 플리마켓 프로젝트 [OISO 의 기술 블로그](https://sarang-han.github.io/oiso-tech/) 입니다.
 
 
 ## How to run in local
